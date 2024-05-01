@@ -65,5 +65,5 @@ pnpm lint
 
 ### [PrimeVue](https://primevue.org/introduction/) Integration
 ```sh
-pnpm add primevue
+pnpm add primevue primeicons
 ```
