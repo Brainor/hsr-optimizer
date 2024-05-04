@@ -67,3 +67,9 @@ pnpm lint
 ```sh
 pnpm add primevue primeicons
 ```
+
+### tailwindcss Integration
+```sh
+pnpm install -D tailwindcss postcss autoprefixer
+pnpm dlx tailwindcss init -p
+```
